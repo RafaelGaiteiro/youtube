@@ -1,4 +1,4 @@
-import { SearchInput } from "../SearchInput";
+import { SearchInput } from "../../atoms/SearchInput";
 import { Container } from "./styles";
 
 export const Header = () => {
